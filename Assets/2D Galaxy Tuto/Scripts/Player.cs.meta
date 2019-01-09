@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: ae53dd1f53024437e9185f1826116928
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _Laser: {fileID: 1346108297088982, guid: b0553bfbdfbbf4e57878c3c10b625712, type: 2}
+  - _TripleShot: {instanceID: 0}
+  - _Explosion: {instanceID: 0}
+  - _Shield: {instanceID: 0}
+  - _Hurt: {instanceID: 0}
+  - _ThreeLives: {instanceID: 0}
+  - _TwoLives: {instanceID: 0}
+  - _OneLives: {instanceID: 0}
+  - _NoLives: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
